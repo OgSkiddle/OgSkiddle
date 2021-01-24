@@ -11,11 +11,6 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/l2dldl7co9fsyvyggmxo0q5f1)
 
-### Connect with me:
-
-[<img align="left" alt="territorialbreak5 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-[<img align="left" alt="territorialbreak5 | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
-
 <br />
 
 ### 🔨Languages and Tools:
