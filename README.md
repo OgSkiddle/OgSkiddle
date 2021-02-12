@@ -1,6 +1,6 @@
 ### Hi there, I'm João👋
 
-## I'm a Developer and Gamer!!
+## I'm a Programmer and Gamer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
