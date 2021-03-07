@@ -26,12 +26,11 @@
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![C#](http://img.shields.io/badge/-C#-A8B9CC?style=flat-square&logo=c#&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![PHP](https://img.shields.io/badge/-PHP-61DAFB?style=flat-square&logo=php&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![COBOL](https://img.shields.io/badge/-COBOL-%231572B6?style=flat-square&logo=COBOL)
+![COBOL](https://img.shields.io/badge/-COBOL-%231572B6?style=flat-square&logo=COBOLT)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-FFCA28?style=flat-square&logo=mysql&logoColor=ffffff)
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
@@ -55,7 +54,7 @@
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
     </a>
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerritorialBreak5&theme=react&line_height=40&hide=css"/>
     </a>
 </div
 
@@ -63,7 +62,7 @@
 
 ---
 
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
+### ⭐️ From [TerritorialBreak5](https://github.com/TerritorialBreak5) ### 
 
 ---
 
@@ -73,6 +72,3 @@
 
 
 ----
-Credit: [Bgstatic](https://github.com/Bgstatic)
-
-Last Edited on: 23/09/2020
