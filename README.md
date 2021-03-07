@@ -4,7 +4,7 @@
 
 ## I'm a Web Developer and Programmer  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, PHP etc.
+- 👨‍💻 I’m currently working on web development like JavaScript, PHP etc.
 - 📚 I’m currently learning everything about websites and technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play Call Of Duty and GTA Roleplay.
