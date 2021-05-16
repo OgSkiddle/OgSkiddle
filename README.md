@@ -4,7 +4,7 @@
 
 ## I'm a Student and Programmer  
 
-- 👨‍ I´m 17 years old.
+- 👨‍ I´m 18 years old.
 - 👨‍💻 I’m currently working on my Tech Forum.
 - 📚 I’m currently learning everything.😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
