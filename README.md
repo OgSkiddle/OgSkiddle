@@ -6,7 +6,6 @@
 
 - 👨‍ I´m 18 years old.
 - 👨‍💻 I’m currently working on my Tech Forum.
-- 📚 I’m Web Developer.😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play Call Of Duty and GTA Roleplay.
 
