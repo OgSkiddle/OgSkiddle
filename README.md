@@ -7,7 +7,7 @@
 - 👨‍ I´m 18 years old.
 - 👨‍💻 I’m currently working on my Tech Forum.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to play Call Of Duty and GTA Roleplay.
+- ⚡ Fun fact: I love to play Call Of Duty, GTA Roleplay and Sea of Thieves.
 
 ---
 
