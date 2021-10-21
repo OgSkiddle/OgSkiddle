@@ -22,7 +22,7 @@
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 
-### Languages and Tools 🛠 
+### Some Languages and Tools 🛠 
 
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 ![COBOL](https://img.shields.io/badge/-COBOL-%231572B6?style=flat-square&logo=COBOLT)
