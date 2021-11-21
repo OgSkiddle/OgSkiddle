@@ -56,11 +56,5 @@
 
 <br/>
 
----
-
-### ⭐️ From [TerritorialBreak5](https://github.com/TerritorialBreak5) ### 
-
----
-
 [Spotify]: https://open.spotify.com/user/11153360645
 
