@@ -46,7 +46,7 @@
   
   <div align="center"> 
     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerritorialBreak5&theme=react&line_height=40&hide=css"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OgSkiddle&theme=react&line_height=40&hide=css"/>
     </a>
 </div
 
