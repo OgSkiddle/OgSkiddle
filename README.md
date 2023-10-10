@@ -17,8 +17,6 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/1nvyhpgvn75lgkeycp45brt3j)
 
----
-
 <br/>
 
 [Spotify]: https://open.spotify.com/user/1nvyhpgvn75lgkeycp45brt3j
