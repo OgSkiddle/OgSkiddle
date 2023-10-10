@@ -8,7 +8,3 @@
 - 👨‍💻 I’m currently studying 'Computer Science and engineering' and working at 'Deloitte'.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play Call Of Duty and GTA Roleplay.
-
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
