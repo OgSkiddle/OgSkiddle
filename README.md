@@ -38,19 +38,5 @@
 
 <br/>
 
----
-
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OgSkiddle&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
-
-<br/>
-
 [Spotify]: https://open.spotify.com/user/11153360645
 
